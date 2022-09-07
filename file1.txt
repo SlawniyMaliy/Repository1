@@ -2,3 +2,4 @@ Hello world by user1!
 Master
 add-feature1
 User1 from branch add-feature2
+Line from user1 - lesson about rebase
